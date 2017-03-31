@@ -1,4 +1,5 @@
-# Tweeter-Analysis---PANDAS
+# Tweeter Analysis-PANDAS
+[![screenshot_1490978130.png](https://s19.postimg.org/3z75lt9gz/screenshot_1490978130.png)](https://postimg.org/image/em0yr8hm7/)
 NO Twitter API, Reading Twitter Analytics data.csv file and Python
 
 ## Top 5 Retweets and its count:
@@ -28,4 +29,6 @@ all_hasttags[:3]
 
 ## Tweets per day:
 [![screenshot_1490977754.png](https://s19.postimg.org/k7ndvaib7/screenshot_1490977754.png)](https://postimg.org/image/3wn9yz5tb/)
+
+## Matplot bar chart:
 [![screenshot_1490977449.png](https://s19.postimg.org/h8bvufjg3/screenshot_1490977449.png)](https://postimg.org/image/8q2fq3cxb/)
