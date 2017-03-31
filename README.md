@@ -1,5 +1,6 @@
 # Tweeter Analysis-PANDAS
 [![screenshot_1490978130.png](https://s19.postimg.org/3z75lt9gz/screenshot_1490978130.png)](https://postimg.org/image/em0yr8hm7/)
+[![screenshot_1490978440.png](https://s19.postimg.org/ldrdu36lv/screenshot_1490978440.png)](https://postimg.org/image/bggd10yzz/)
 NO Twitter API, Reading Twitter Analytics data.csv file and Python
 
 ## Top 5 Retweets and its count:
